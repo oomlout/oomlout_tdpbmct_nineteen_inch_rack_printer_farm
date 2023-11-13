@@ -86,7 +86,7 @@ viewBox="0 0 600000 300000"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_1060758848">
+  <g id="_999303328">
    <path class="fil0 str0" d="M342800 151700l0 -3400c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
    <circle class="fil0 str0" cx="345000" cy="150000" r="300"/>
    <circle class="fil0 str0" cx="345000" cy="148500" r="300"/>
@@ -111,7 +111,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str0" cx="346500" cy="149250" r="150"/>
   </g>
   <text x="169252" y="18144"  class="fil1 fnt0">oomlout_tdpbmct_project_nineteen_inch_rack_printer_farm</text>
-  <g id="_1052127888">
+  <g id="_875781648">
    <text x="117241" y="242640"  class="fil1 fnt1">1u</text>
    <text x="115903" y="202635"  class="fil1 fnt1">10u</text>
    <g>
@@ -960,7 +960,7 @@ viewBox="0 0 600000 300000"
    <text x="115998" y="113735"  class="fil1 fnt1">30u</text>
    <text x="116106" y="60395"  class="fil1 fnt1">42u</text>
   </g>
-  <g id="_1052122384">
+  <g id="_875774832">
    <polygon class="fil0 str1" points="550840,64250 590840,64250 590840,115750 550840,115750 "/>
    <g transform="matrix(1.00001 0 0 1 270833 -64898.7)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -974,7 +974,7 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="548340" y="115750" width="45000" height="2500"/>
    <rect class="fil0 str1" x="548340" y="118500" width="45000" height="2500"/>
   </g>
-  <g id="_1052117136">
+  <g id="_875769008">
    <polygon class="fil0 str1" points="550840,184250 590840,184250 590840,220750 550840,220750 "/>
    <g transform="matrix(1.00001 0 0 1 270833 40101.3)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -988,7 +988,7 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="548340" y="220750" width="45000" height="2500"/>
    <rect class="fil0 str1" x="548340" y="223500" width="45000" height="2500"/>
   </g>
-  <g id="_1052109232">
+  <g id="_875763984">
    <polygon class="fil0 str1" points="550840,144250 590840,144250 590840,175750 550840,175750 "/>
    <g transform="matrix(1.00001 0 0 1 270833 2601.33)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -1002,12 +1002,12 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="548340" y="175750" width="45000" height="2500"/>
    <rect class="fil0 str1" x="548340" y="178500" width="45000" height="2500"/>
   </g>
-  <g id="_1052110064">
+  <g id="_875760336">
    <rect class="fil0 str4" x="95744" y="241710" width="2000" height="2000"/>
    <rect class="fil0 str4" x="142256" y="241710" width="2000" height="2000"/>
    <rect class="fil0 str4" x="92437" y="239910" width="55000" height="1800"/>
   </g>
-  <g id="_1057869280">
+  <g id="_1162424016">
    <text x="42241" y="242640"  class="fil1 fnt1">1u</text>
    <text x="40903" y="202635"  class="fil1 fnt1">10u</text>
    <g>
@@ -1856,12 +1856,12 @@ viewBox="0 0 600000 300000"
    <text x="40998" y="113735"  class="fil1 fnt1">30u</text>
    <text x="41106" y="60395"  class="fil1 fnt1">42u</text>
   </g>
-  <g id="_1057870144">
+  <g id="_1162421424">
    <rect class="fil0 str4" x="20744" y="241710" width="2000" height="2000"/>
    <rect class="fil0 str4" x="67256" y="241710" width="2000" height="2000"/>
    <rect class="fil0 str4" x="17437" y="239910" width="55000" height="1800"/>
   </g>
-  <g id="_1057642928">
+  <g id="_1162416880">
    <polygon class="fil0 str1" points="99937,183160 139937,183160 139937,234660 99937,234660 "/>
    <g transform="matrix(1.00001 0 0 1 -180069 54011.3)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -1879,12 +1879,12 @@ viewBox="0 0 600000 300000"
   <text x="543044" y="26817"  class="fil1 fnt2">1u  44.45 mm</text>
   <text x="114678" y="34809"  class="fil1 fnt1">stock</text>
   <text x="112133" y="41314"  class="fil1 fnt1">14u per</text>
-  <g id="_1057635568">
+  <g id="_1162407504">
    <rect class="fil0 str4" x="95744" y="179480" width="2000" height="2000"/>
    <rect class="fil0 str4" x="142256" y="179480" width="2000" height="2000"/>
    <rect class="fil0 str4" x="92437" y="177680" width="55000" height="1800"/>
   </g>
-  <g id="_1057629968">
+  <g id="_1162403312">
    <polygon class="fil0 str1" points="99937,120930 139937,120930 139937,172430 99937,172430 "/>
    <g transform="matrix(1.00001 0 0 1 -180069 -8218.66)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -1898,12 +1898,12 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="97437" y="172430" width="45000" height="2500"/>
    <rect class="fil0 str1" x="97437" y="175180" width="45000" height="2500"/>
   </g>
-  <g id="_1057627184">
+  <g id="_1162401968">
    <rect class="fil0 str4" x="95744" y="117250" width="2000" height="2000"/>
    <rect class="fil0 str4" x="142256" y="117250" width="2000" height="2000"/>
    <rect class="fil0 str4" x="92437" y="115450" width="55000" height="1800"/>
   </g>
-  <g id="_1057623344">
+  <g id="_860456592">
    <polygon class="fil0 str1" points="99937,58700 139937,58700 139937,110200 99937,110200 "/>
    <g transform="matrix(1.00001 0 0 1 -180069 -70448.7)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -1919,7 +1919,7 @@ viewBox="0 0 600000 300000"
   </g>
   <text x="39678" y="34809"  class="fil1 fnt1">stock</text>
   <text x="37133" y="41314"  class="fil1 fnt1">14u per</text>
-  <g id="_1066465040">
+  <g id="_1117044176">
    <text x="192241" y="242640"  class="fil1 fnt1">1u</text>
    <text x="190903" y="202635"  class="fil1 fnt1">10u</text>
    <g>
@@ -2768,14 +2768,14 @@ viewBox="0 0 600000 300000"
    <text x="190998" y="113735"  class="fil1 fnt1">30u</text>
    <text x="191106" y="60395"  class="fil1 fnt1">42u</text>
   </g>
-  <g id="_1066462640">
+  <g id="_1117042384">
    <rect class="fil0 str4" x="170744" y="241710" width="2000" height="2000"/>
    <rect class="fil0 str4" x="217256" y="241710" width="2000" height="2000"/>
    <rect class="fil0 str4" x="167437" y="239910" width="55000" height="1800"/>
   </g>
   <text x="185067" y="34809"  class="fil1 fnt1">chop_150</text>
   <text x="187133" y="41314"  class="fil1 fnt1">10u per</text>
-  <g id="_1057009200">
+  <g id="_988886832">
    <text x="267241" y="242640"  class="fil1 fnt1">1u</text>
    <text x="265903" y="202635"  class="fil1 fnt1">10u</text>
    <g>
@@ -3624,14 +3624,14 @@ viewBox="0 0 600000 300000"
    <text x="265998" y="113735"  class="fil1 fnt1">30u</text>
    <text x="266106" y="60395"  class="fil1 fnt1">42u</text>
   </g>
-  <g id="_1113256400">
+  <g id="_988884944">
    <rect class="fil0 str4" x="245744" y="241710" width="2000" height="2000"/>
    <rect class="fil0 str4" x="292256" y="241710" width="2000" height="2000"/>
    <rect class="fil0 str4" x="242437" y="239910" width="55000" height="1800"/>
   </g>
   <text x="260067" y="34809"  class="fil1 fnt1">chop_200</text>
   <text x="263472" y="41314"  class="fil1 fnt1">9u per</text>
-  <g id="_843477104">
+  <g id="_1055938848">
    <text x="342241" y="242640"  class="fil1 fnt1">1u</text>
    <text x="340903" y="202635"  class="fil1 fnt1">10u</text>
    <g>
@@ -4480,14 +4480,14 @@ viewBox="0 0 600000 300000"
    <text x="340998" y="113735"  class="fil1 fnt1">30u</text>
    <text x="341106" y="60395"  class="fil1 fnt1">42u</text>
   </g>
-  <g id="_843474736">
+  <g id="_1055940000">
    <rect class="fil0 str4" x="320744" y="241710" width="2000" height="2000"/>
    <rect class="fil0 str4" x="367256" y="241710" width="2000" height="2000"/>
    <rect class="fil0 str4" x="317437" y="239910" width="55000" height="1800"/>
   </g>
   <text x="325734" y="34809"  class="fil1 fnt1">chop_200_no_riser</text>
   <text x="338472" y="41314"  class="fil1 fnt1">8u per</text>
-  <g id="_843463312">
+  <g id="_1055930240">
    <polygon class="fil0 str1" points="174937,198160 214937,198160 214937,234660 174937,234660 "/>
    <g transform="matrix(1.00001 0 0 1 -105069 54011.3)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4501,12 +4501,12 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="172437" y="234660" width="45000" height="2500"/>
    <rect class="fil0 str1" x="172437" y="237410" width="45000" height="2500"/>
   </g>
-  <g id="_843462192">
+  <g id="_1055927552">
    <rect class="fil0 str4" x="170744" y="197260" width="2000" height="2000"/>
    <rect class="fil0 str4" x="217256" y="197260" width="2000" height="2000"/>
    <rect class="fil0 str4" x="167437" y="195460" width="55000" height="1800"/>
   </g>
-  <g id="_843458704">
+  <g id="_1055920448">
    <polygon class="fil0 str1" points="174937,153710 214937,153710 214937,190210 174937,190210 "/>
    <g transform="matrix(1.00001 0 0 1 -105069 9561.34)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4520,12 +4520,12 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="172437" y="190210" width="45000" height="2500"/>
    <rect class="fil0 str1" x="172437" y="192960" width="45000" height="2500"/>
   </g>
-  <g id="_843456784">
+  <g id="_1055920160">
    <rect class="fil0 str4" x="170744" y="152810" width="2000" height="2000"/>
    <rect class="fil0 str4" x="217256" y="152810" width="2000" height="2000"/>
    <rect class="fil0 str4" x="167437" y="151010" width="55000" height="1800"/>
   </g>
-  <g id="_843450000">
+  <g id="_997378256">
    <polygon class="fil0 str1" points="174937,109260 214937,109260 214937,145760 174937,145760 "/>
    <g transform="matrix(1.00001 0 0 1 -105069 -34888.7)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4539,12 +4539,12 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="172437" y="145760" width="45000" height="2500"/>
    <rect class="fil0 str1" x="172437" y="148510" width="45000" height="2500"/>
   </g>
-  <g id="_843447536">
+  <g id="_997439856">
    <rect class="fil0 str4" x="170744" y="108360" width="2000" height="2000"/>
    <rect class="fil0 str4" x="217256" y="108360" width="2000" height="2000"/>
    <rect class="fil0 str4" x="167437" y="106560" width="55000" height="1800"/>
   </g>
-  <g id="_843441168">
+  <g id="_997435472">
    <polygon class="fil0 str1" points="174937,64810 214937,64810 214937,101310 174937,101310 "/>
    <g transform="matrix(1.00001 0 0 1 -105069 -79338.7)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4558,7 +4558,7 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="172437" y="101310" width="45000" height="2500"/>
    <rect class="fil0 str1" x="172437" y="104060" width="45000" height="2500"/>
   </g>
-  <g id="_843435664">
+  <g id="_997427984">
    <polygon class="fil0 str1" points="249937,203160 289937,203160 289937,234660 249937,234660 "/>
    <g transform="matrix(1.00001 0 0 1 -30069.4 61511.3)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4572,12 +4572,12 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="247437" y="234660" width="45000" height="2500"/>
    <rect class="fil0 str1" x="247437" y="237410" width="45000" height="2500"/>
   </g>
-  <g id="_843435248">
+  <g id="_997427696">
    <rect class="fil0 str4" x="245744" y="201705" width="2000" height="2000"/>
    <rect class="fil0 str4" x="292256" y="201705" width="2000" height="2000"/>
    <rect class="fil0 str4" x="242437" y="199905" width="55000" height="1800"/>
   </g>
-  <g id="_843428720">
+  <g id="_997422928">
    <polygon class="fil0 str1" points="249937,163155 289937,163155 289937,194655 249937,194655 "/>
    <g transform="matrix(1.00001 0 0 1 -30069.4 21506.3)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4591,12 +4591,12 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="247437" y="194655" width="45000" height="2500"/>
    <rect class="fil0 str1" x="247437" y="197405" width="45000" height="2500"/>
   </g>
-  <g id="_843426224">
+  <g id="_997420176">
    <rect class="fil0 str4" x="245744" y="161700" width="2000" height="2000"/>
    <rect class="fil0 str4" x="292256" y="161700" width="2000" height="2000"/>
    <rect class="fil0 str4" x="242437" y="159900" width="55000" height="1800"/>
   </g>
-  <g id="_1066081744">
+  <g id="_997413552">
    <polygon class="fil0 str1" points="249937,123150 289937,123150 289937,154650 249937,154650 "/>
    <g transform="matrix(1.00001 0 0 1 -30069.4 -18498.7)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4610,12 +4610,12 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="247437" y="154650" width="45000" height="2500"/>
    <rect class="fil0 str1" x="247437" y="157400" width="45000" height="2500"/>
   </g>
-  <g id="_1066079536">
+  <g id="_997412432">
    <rect class="fil0 str4" x="245744" y="121695" width="2000" height="2000"/>
    <rect class="fil0 str4" x="292256" y="121695" width="2000" height="2000"/>
    <rect class="fil0 str4" x="242437" y="119895" width="55000" height="1800"/>
   </g>
-  <g id="_1066073616">
+  <g id="_997405552">
    <polygon class="fil0 str1" points="249937,83145 289937,83145 289937,114645 249937,114645 "/>
    <g transform="matrix(1.00001 0 0 1 -30069.4 -58503.7)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4629,12 +4629,12 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="247437" y="114645" width="45000" height="2500"/>
    <rect class="fil0 str1" x="247437" y="117395" width="45000" height="2500"/>
   </g>
-  <g id="_1066070672">
+  <g id="_997406672">
    <rect class="fil0 str4" x="245744" y="81690" width="2000" height="2000"/>
    <rect class="fil0 str4" x="292256" y="81690" width="2000" height="2000"/>
    <rect class="fil0 str4" x="242437" y="79890" width="55000" height="1800"/>
   </g>
-  <g id="_1066065360">
+  <g id="_997400368">
    <polygon class="fil0 str1" points="249937,43140 289937,43140 289937,74640 249937,74640 "/>
    <g transform="matrix(1.00001 0 0 1 -30069.4 -98508.7)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4648,7 +4648,7 @@ viewBox="0 0 600000 300000"
    <rect class="fil0 str1" x="247437" y="74640" width="45000" height="2500"/>
    <rect class="fil0 str1" x="247437" y="77390" width="45000" height="2500"/>
   </g>
-  <g id="_1066060240">
+  <g id="_997392784">
    <polygon class="fil0 str1" points="324937,208410 364937,208410 364937,239910 324937,239910 "/>
    <g transform="matrix(1.00001 0 0 1 44930.6 66761.3)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4660,12 +4660,12 @@ viewBox="0 0 600000 300000"
     <text x="289896" y="163010"  class="fil1 str3 fnt1">chop_200</text>
    </g>
   </g>
-  <g id="_1066059792">
+  <g id="_997393616">
    <rect class="fil0 str4" x="320744" y="206150" width="2000" height="2000"/>
    <rect class="fil0 str4" x="367256" y="206150" width="2000" height="2000"/>
    <rect class="fil0 str4" x="317437" y="204350" width="55000" height="1800"/>
   </g>
-  <g id="_1066054928">
+  <g id="_997388464">
    <polygon class="fil0 str1" points="324937,172850 364937,172850 364937,204350 324937,204350 "/>
    <g transform="matrix(1.00001 0 0 1 44930.6 31201.3)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4677,12 +4677,12 @@ viewBox="0 0 600000 300000"
     <text x="289896" y="163010"  class="fil1 str3 fnt1">chop_200</text>
    </g>
   </g>
-  <g id="_1066052304">
+  <g id="_997385072">
    <rect class="fil0 str4" x="320744" y="170590" width="2000" height="2000"/>
    <rect class="fil0 str4" x="367256" y="170590" width="2000" height="2000"/>
    <rect class="fil0 str4" x="317437" y="168790" width="55000" height="1800"/>
   </g>
-  <g id="_1066046352">
+  <g id="_997382064">
    <polygon class="fil0 str1" points="324937,137290 364937,137290 364937,168790 324937,168790 "/>
    <g transform="matrix(1.00001 0 0 1 44930.6 -4358.66)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4694,12 +4694,12 @@ viewBox="0 0 600000 300000"
     <text x="289896" y="163010"  class="fil1 str3 fnt1">chop_200</text>
    </g>
   </g>
-  <g id="_1066046512">
+  <g id="_997380240">
    <rect class="fil0 str4" x="320744" y="135030" width="2000" height="2000"/>
    <rect class="fil0 str4" x="367256" y="135030" width="2000" height="2000"/>
    <rect class="fil0 str4" x="317437" y="133230" width="55000" height="1800"/>
   </g>
-  <g id="_1066040688">
+  <g id="_1115968608">
    <polygon class="fil0 str1" points="324937,101730 364937,101730 364937,133230 324937,133230 "/>
    <g transform="matrix(1.00001 0 0 1 44930.6 -39918.7)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4711,12 +4711,12 @@ viewBox="0 0 600000 300000"
     <text x="289896" y="163010"  class="fil1 str3 fnt1">chop_200</text>
    </g>
   </g>
-  <g id="_1066038224">
+  <g id="_1115966720">
    <rect class="fil0 str4" x="320744" y="99470" width="2000" height="2000"/>
    <rect class="fil0 str4" x="367256" y="99470" width="2000" height="2000"/>
    <rect class="fil0 str4" x="317437" y="97670" width="55000" height="1800"/>
   </g>
-  <g id="_1066033744">
+  <g id="_1115962624">
    <polygon class="fil0 str1" points="324937,66170 364937,66170 364937,97670 324937,97670 "/>
    <g transform="matrix(1.00001 0 0 1 44930.6 -75478.7)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -4728,7 +4728,7 @@ viewBox="0 0 600000 300000"
     <text x="289896" y="163010"  class="fil1 str3 fnt1">chop_200</text>
    </g>
   </g>
-  <g id="_998002128">
+  <g id="_860158272">
    <text x="431141" y="242640"  class="fil1 fnt1">1u</text>
    <text x="429803" y="202635"  class="fil1 fnt1">10u</text>
    <g>
@@ -5579,7 +5579,7 @@ viewBox="0 0 600000 300000"
   </g>
   <text x="408695" y="34809"  class="fil1 fnt1">chop_200_bolt_to_frame  </text>
   <text x="427372" y="41314"  class="fil1 fnt1">7u per</text>
-  <g id="_1063927568">
+  <g id="_860147872">
    <polygon class="fil0 str1" points="413837,211210 453837,211210 453837,242710 413837,242710 "/>
    <g transform="matrix(1.00001 0 0 1 133831 69561.3)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -5591,7 +5591,7 @@ viewBox="0 0 600000 300000"
     <text x="289896" y="163010"  class="fil1 str3 fnt1">chop_200</text>
    </g>
   </g>
-  <g id="_1063921776">
+  <g id="_860142560">
    <polygon class="fil0 str1" points="413837,180095 453837,180095 453837,211595 413837,211595 "/>
    <g transform="matrix(1.00001 0 0 1 133831 38446.3)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -5603,7 +5603,7 @@ viewBox="0 0 600000 300000"
     <text x="289896" y="163010"  class="fil1 str3 fnt1">chop_200</text>
    </g>
   </g>
-  <g id="_1063916720">
+  <g id="_860137440">
    <polygon class="fil0 str1" points="413837,148980 453837,148980 453837,180480 413837,180480 "/>
    <g transform="matrix(1.00001 0 0 1 133831 7331.33)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -5615,7 +5615,7 @@ viewBox="0 0 600000 300000"
     <text x="289896" y="163010"  class="fil1 str3 fnt1">chop_200</text>
    </g>
   </g>
-  <g id="_1063909808">
+  <g id="_860133440">
    <polygon class="fil0 str1" points="413837,117865 453837,117865 453837,149365 413837,149365 "/>
    <g transform="matrix(1.00001 0 0 1 133831 -23783.7)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -5627,7 +5627,7 @@ viewBox="0 0 600000 300000"
     <text x="289896" y="163010"  class="fil1 str3 fnt1">chop_200</text>
    </g>
   </g>
-  <g id="_1063906736">
+  <g id="_860127232">
    <polygon class="fil0 str1" points="413837,86750 453837,86750 453837,118250 413837,118250 "/>
    <g transform="matrix(1.00001 0 0 1 133831 -54898.7)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -5639,7 +5639,7 @@ viewBox="0 0 600000 300000"
     <text x="289896" y="163010"  class="fil1 str3 fnt1">chop_200</text>
    </g>
   </g>
-  <g id="_1063901488">
+  <g id="_860121952">
    <polygon class="fil0 str1" points="413837,55635 453837,55635 453837,87135 413837,87135 "/>
    <g transform="matrix(1.00001 0 0 1 133831 -86013.7)">
     <text x="290986" y="150000"  class="fil1 str3 fnt1">anycubic</text>
@@ -5651,7 +5651,7 @@ viewBox="0 0 600000 300000"
     <text x="289896" y="163010"  class="fil1 str3 fnt1">chop_200</text>
    </g>
   </g>
-  <g id="_1001836528">
+  <g id="_1155942208">
    <text x="507241" y="242640"  class="fil1 fnt1">1u</text>
    <text x="505903" y="202635"  class="fil1 fnt1">10u</text>
    <g>
@@ -6502,7 +6502,7 @@ viewBox="0 0 600000 300000"
   </g>
   <text x="504678" y="34809"  class="fil1 fnt1">stock</text>
   <text x="502133" y="41314"  class="fil1 fnt1">14u per</text>
-  <g id="_1001825072">
+  <g id="_1155931648">
    <g>
     <rect class="fil0 str5" x="755420" y="164550" width="900" height="900"/>
     <rect class="fil0 str5" x="755420" y="162962" width="900" height="900"/>
@@ -6522,7 +6522,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str5" cx="802382" cy="163413" r="300"/>
    <circle class="fil0 str5" cx="802382" cy="166588" r="300"/>
   </g>
-  <g id="_1001819888">
+  <g id="_1155924544">
    <g>
     <rect class="fil0 str5" x="755420" y="160105" width="900" height="900"/>
     <rect class="fil0 str5" x="755420" y="158517" width="900" height="900"/>
@@ -6542,7 +6542,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str5" cx="802382" cy="158968" r="300"/>
    <circle class="fil0 str5" cx="802382" cy="162143" r="300"/>
   </g>
-  <g id="_1001813360">
+  <g id="_1155917280">
    <g>
     <rect class="fil0 str5" x="755420" y="155660" width="900" height="900"/>
     <rect class="fil0 str5" x="755420" y="154072" width="900" height="900"/>
@@ -6562,7 +6562,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str5" cx="802382" cy="154523" r="300"/>
    <circle class="fil0 str5" cx="802382" cy="157698" r="300"/>
   </g>
-  <g id="_1001804208">
+  <g id="_1155911136">
    <g>
     <rect class="fil0 str5" x="755420" y="151215" width="900" height="900"/>
     <rect class="fil0 str5" x="755420" y="149627" width="900" height="900"/>
@@ -6582,7 +6582,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str5" cx="802382" cy="150078" r="300"/>
    <circle class="fil0 str5" cx="802382" cy="153253" r="300"/>
   </g>
-  <g id="_1001800016">
+  <g id="_1155905408">
    <g>
     <rect class="fil0 str5" x="755420" y="146770" width="900" height="900"/>
     <rect class="fil0 str5" x="755420" y="145182" width="900" height="900"/>
@@ -6602,7 +6602,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str5" cx="802382" cy="145633" r="300"/>
    <circle class="fil0 str5" cx="802382" cy="148808" r="300"/>
   </g>
-  <g id="_1001793328">
+  <g id="_1155897696">
    <g>
     <rect class="fil0 str5" x="755420" y="142325" width="900" height="900"/>
     <rect class="fil0 str5" x="755420" y="140737" width="900" height="900"/>
@@ -6622,7 +6622,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str5" cx="802382" cy="141188" r="300"/>
    <circle class="fil0 str5" cx="802382" cy="144363" r="300"/>
   </g>
-  <g id="_1001786672">
+  <g id="_987072640">
    <g>
     <rect class="fil0 str5" x="755420" y="137880" width="900" height="900"/>
     <rect class="fil0 str5" x="755420" y="136292" width="900" height="900"/>
@@ -6642,7 +6642,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str5" cx="802382" cy="136743" r="300"/>
    <circle class="fil0 str5" cx="802382" cy="139918" r="300"/>
   </g>
-  <g id="_997082592">
+  <g id="_879312912">
    <g>
     <rect class="fil0 str5" x="755420" y="133435" width="900" height="900"/>
     <rect class="fil0 str5" x="755420" y="131847" width="900" height="900"/>
@@ -6662,7 +6662,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str5" cx="802382" cy="132298" r="300"/>
    <circle class="fil0 str5" cx="802382" cy="135473" r="300"/>
   </g>
-  <g id="_997074528">
+  <g id="_879339344">
    <g>
     <rect class="fil0 str5" x="755420" y="128990" width="900" height="900"/>
     <rect class="fil0 str5" x="755420" y="127402" width="900" height="900"/>
@@ -6682,7 +6682,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str5" cx="802382" cy="127853" r="300"/>
    <circle class="fil0 str5" cx="802382" cy="131028" r="300"/>
   </g>
-  <g id="_997067200">
+  <g id="_879332720">
    <g>
     <rect class="fil0 str5" x="755420" y="124545" width="900" height="900"/>
     <rect class="fil0 str5" x="755420" y="122957" width="900" height="900"/>
@@ -6702,7 +6702,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str5" cx="802382" cy="123408" r="300"/>
    <circle class="fil0 str5" cx="802382" cy="126583" r="300"/>
   </g>
-  <g id="_997061984">
+  <g id="_879326800">
    <g>
     <rect class="fil0 str5" x="755420" y="120100" width="900" height="900"/>
     <rect class="fil0 str5" x="755420" y="118512" width="900" height="900"/>
@@ -6722,7 +6722,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str5" cx="802382" cy="118963" r="300"/>
    <circle class="fil0 str5" cx="802382" cy="122138" r="300"/>
   </g>
-  <g id="_997052960">
+  <g id="_879320816">
    <g>
     <rect class="fil0 str5" x="755420" y="115655" width="900" height="900"/>
     <rect class="fil0 str5" x="755420" y="114067" width="900" height="900"/>
@@ -6742,7 +6742,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str5" cx="802382" cy="114518" r="300"/>
    <circle class="fil0 str5" cx="802382" cy="117693" r="300"/>
   </g>
-  <g id="_997036384">
+  <g id="_992342256">
    <path class="fil0 str6" d="M755170 166700l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
    <circle class="fil0 str6" cx="757370" cy="165000" r="300"/>
    <circle class="fil0 str6" cx="757370" cy="163500" r="300"/>
@@ -6780,7 +6780,7 @@ viewBox="0 0 600000 300000"
    <text x="762040" y="165165"  class="fil0 str8 fnt3">printer_mounts</text>
    <text x="762052" y="166791"  class="fil0 str8 fnt3">anycubic_vyper</text>
   </g>
-  <g id="_999517856">
+  <g id="_992318768">
    <path class="fil0 str6" d="M803082 163300l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500z"/>
    <circle class="fil0 str6" cx="800882" cy="165000" r="300"/>
    <circle class="fil0 str6" cx="800882" cy="166500" r="300"/>
@@ -6832,7 +6832,7 @@ viewBox="0 0 600000 300000"
     <text x="298696" y="153253"  class="fil0 str10 fnt3">anycubic_vyper</text>
    </g>
   </g>
-  <g id="_999456096">
+  <g id="_860970160">
    <g>
     <text x="494570" y="57353"  class="fil1 fnt4">oomlout_tdpbmct_printer_anycubic_vyper</text>
     <g>
@@ -6961,7 +6961,7 @@ viewBox="0 0 600000 300000"
     </g>
    </g>
   </g>
-  <g id="_997405456">
+  <g id="_877584768">
    <g>
     <text x="497057" y="111255"  class="fil1 fnt6">oomlout_tdpbmct_printer_anycubic_vyper</text>
     <text x="503605" y="116530"  class="fil1 fnt7">chopped</text>
@@ -7091,7 +7091,7 @@ viewBox="0 0 600000 300000"
     </g>
    </g>
   </g>
-  <g id="_997400240">
+  <g id="_991789312">
    <g>
     <rect class="fil0 str4" x="485744" y="170590" width="2000" height="2000"/>
     <rect class="fil0 str4" x="532256" y="170590" width="2000" height="2000"/>
@@ -7102,7 +7102,7 @@ viewBox="0 0 600000 300000"
     <text x="502650" y="163003"  class="fil1 fnt8">dell</text>
    </g>
   </g>
-  <g id="_992315600">
+  <g id="_991796000">
    <g>
     <text x="497057" y="177930"  class="fil1 fnt6">oomlout_tdpbmct_printer_anycubic_vyper</text>
     <text x="503605" y="183205"  class="fil1 fnt7">chopped</text>
@@ -7232,7 +7232,7 @@ viewBox="0 0 600000 300000"
     </g>
    </g>
   </g>
-  <g id="_991756352">
+  <g id="_1127115280">
    <path class="fil0 str1" d="M485300 162840l0 -7900c0,-276 224,-500 500,-500l48400 0c276,0 500,224 500,500l0 7900c0,276 -224,500 -500,500l-48400 0c-276,0 -500,-224 -500,-500z"/>
    <rect class="fil0 str1" x="491500" y="156090" width="37000" height="5600"/>
    <rect class="fil0 str1" x="489500" y="158490" width="2000" height="800"/>
@@ -7465,7 +7465,7 @@ viewBox="0 0 600000 300000"
    <circle class="fil0 str1" cx="531750" cy="161140" r="150"/>
    <circle class="fil0 str1" cx="531750" cy="162640" r="150"/>
   </g>
-  <g id="_881035056">
+  <g id="_881001136">
    <g>
     <text x="497057" y="213490"  class="fil1 fnt6">oomlout_tdpbmct_printer_anycubic_vyper</text>
     <text x="503605" y="218765"  class="fil1 fnt7">chopped</text>
